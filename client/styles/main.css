@@ -1,0 +1,33 @@
+.message-log {
+  width: 100%;
+  background-color: #263238;
+  color: #ddd;
+}
+.message-log .message-list {
+    padding: 0 20px;
+    margin-top: 50px;
+}
+.message-log .message-list .message-item {
+  list-style-type: none;
+  margin: 10px 0;
+}
+
+.message-volatile {
+  color: #60AB61;
+}
+
+.message-created-updated-doc {
+  color: #5E99CC;
+}
+
+.message-deleted-doc {
+  color: #C75856;
+}
+
+.message-pending {
+  color: #DCAC59;
+}
+
+.message-user {
+  color: #917FC3;
+}
